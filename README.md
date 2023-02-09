@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- :green_book: I'm currently a student at Sumy State University :school:, majoring in Computer Science :computer:
+- :green_book: I'm currently a student at [Sumy State University](https://sumdu.edu.ua/) :school:, majoring in Computer Science :computer:
 - :bulb: I want to become an IT specialist :floppy_disk:
 - 🤔 I’m looking for apple juice :green_apple:
